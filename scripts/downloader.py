@@ -97,7 +97,7 @@ for vote_event_id in range(vote_events_minmax[0], vote_events_minmax[1] + 1):
             option = option2option[option_raw]
             vote = {
               "vote_event_id": vote_event_id,
-              "mp_id": mp_id,
+              "voter_id": mp_id,
               "option": option,
               "group": group_name
             }
@@ -113,7 +113,7 @@ for vote_event_id in range(vote_events_minmax[0], vote_events_minmax[1] + 1):
   # break
 
 # remove duplicates
-votes = votes.drop_duplicates(['vote_event_id', 'mp_id'])
+votes = votes.drop_duplicates(['vote_event_id', 'voter_id'])
 vote_events = vote_events.drop_duplicates(['vote_event_id'])
 
 vote_events.to_csv("data/vote_events.csv", index=False)
