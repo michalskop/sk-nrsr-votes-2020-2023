@@ -263,4 +263,6 @@ for i in range(0, 2):
   if (rotate['dims'][i]) * row['dim' + str(i + 1)].values[0] < 0:
     out.loc[:, 'dim' + str(i + 1)] = out['dim' + str(i + 1)] * -1
 
+out['kand. listina'] = out['kand. listina'].replace('OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA', 'OĽANO, NOVA, KÚ, ZMENA ZDOLA')
+
 out.to_csv(localpath + "data/wpca.halfyear.v1.csv", index=False)
