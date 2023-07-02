@@ -21,7 +21,7 @@ attendance = pd.merge(attendance, mps, left_on='voter_id', right_on='mp_id')
 attendance = attendance[attendance['in_parliament']]
 
 # photo url, name
-attendance['photo_url'] = "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=" + str(attendance['mp_id']) + "&ImageWidth=140"
+attendance['photo_url'] = attendance.apply(lambda x: "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=" + str(x['mp_id']) + "&ImageWidth=140", axis=1)
 attendance['name'] = attendance['given_name'] + " " + attendance['family_name']
 
 # output v.1
