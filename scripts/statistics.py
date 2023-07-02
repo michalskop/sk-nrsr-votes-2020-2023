@@ -20,8 +20,12 @@ attendance = pd.merge(attendance, mps, left_on='voter_id', right_on='mp_id')
 # only current mps
 attendance = attendance[attendance['in_parliament']]
 
+# photo url, name
+attendance['photo_url'] = "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=" + str(attendance['mp_id']) + "&ImageWidth=140"
+attendance['name'] = attendance['given_name'] + " " + attendance['family_name']
+
 # output v.1
-output = attendance[['mp_id', 'given_name', 'family_name', 'list', 'attendance', 'possible', 'rate']]
+output = attendance[['mp_id', 'given_name', 'family_name', 'name', 'photo_url', 'list', 'attendance', 'possible', 'rate']]
 output['účasť'] = (output['rate'] * 100).round(0).astype(int)
 del output['rate']
 
