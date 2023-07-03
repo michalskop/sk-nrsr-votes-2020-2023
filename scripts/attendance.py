@@ -1,4 +1,4 @@
-"""Prepare different statistics for MPs."""
+"""Attendance for MPs."""
 
 import pandas as pd
 
