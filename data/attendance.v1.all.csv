@@ -15,6 +15,7 @@ mp_id,given_name,family_name,name,photo_url,list,attendance,possible,in_parliame
 955,Peter,Krupa,Peter Krupa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=955&ImageWidth=140,Kotlebovci - Ľudová strana Naše Slovensko,4535,6150,True,74
 1034,Filip,Kuffa,Filip Kuffa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1034&ImageWidth=140,Kotlebovci - Ľudová strana Naše Slovensko,4020,6153,True,65
 858,Štefan,Kuffa,Štefan Kuffa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=858&ImageWidth=140,Kotlebovci - Ľudová strana Naše Slovensko,3830,6127,True,63
+944,Marian,Kotleba,Marian Kotleba,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=944&ImageWidth=140,Kotlebovci - Ľudová strana Naše Slovensko,1873,3403,False,55
 1024,Eduard,Kočiš,Eduard Kočiš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1024&ImageWidth=140,Kotlebovci - Ľudová strana Naše Slovensko,5421,6148,True,88
 1032,Juraj,Krúpa,Juraj Krúpa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1032&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5574,6145,True,91
 1031,Ján,Krošlák,Ján Krošlák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1031&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5066,6153,True,82
@@ -22,6 +23,7 @@ mp_id,given_name,family_name,name,photo_url,list,attendance,possible,in_parliame
 1033,Karol,Kučera,Karol Kučera,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1033&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5811,6135,True,95
 1028,Monika,Kozelová,Monika Kozelová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1028&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5788,6149,True,94
 1035,Milan,Kuriak,Milan Kuriak,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1035&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5435,6149,True,88
+1014,Ján,Herák,Ján Herák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1014&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",1416,1893,False,75
 1020,Monika,Kavecká,Monika Kavecká,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1020&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5746,6153,True,93
 1016,Igor,Hus,Igor Hus,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1016&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5731,6149,True,93
 1036,Lukáš,Kyselica,Lukáš Kyselica,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1036&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5353,5758,True,93
@@ -30,11 +32,19 @@ mp_id,given_name,family_name,name,photo_url,list,attendance,possible,in_parliame
 1005,Lucia,Drábiková,Lucia Drábiková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1005&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5690,6136,True,93
 1004,Peter,Dobeš,Peter Dobeš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1004&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5905,6140,True,96
 1003,Martin,Čepček,Martin Čepček,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1003&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",4796,6110,True,78
+1000,Jozef,Bubnár,Jozef Bubnár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1000&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",1662,2107,False,79
 999,Martina,Brisudová,Martina Brisudová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=999&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5493,6139,True,89
 1021,Ján,Kerekréti,Ján Kerekréti,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1021&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",4309,6145,True,70
 1038,Peter,Liba,Peter Liba,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1038&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5184,6146,True,84
 22,Ján,Budaj,Ján Budaj,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=22&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",537,579,True,93
 1043,Anna,Mierna,Anna Mierna,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1043&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5720,6145,True,93
+1106,Rastislav,Jílek,Rastislav Jílek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1106&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",1966,2037,False,97
+1101,Peter,Cseh,Peter Cseh,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1101&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",1847,1944,False,95
+1095,Vladimír,Zajačik,Vladimír Zajačik,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1095&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",4405,5544,False,79
+1094,Vojtech,Tóth,Vojtech Tóth,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1094&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",4375,5270,False,83
+1093,Sebastián,Kozarec,Sebastián Kozarec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1093&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",4515,4844,False,93
+1092,Richard,Nemec,Richard Nemec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1092&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",4698,4976,False,94
+1091,György,Gyimesi,György Gyimesi,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1091&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",4673,5559,False,84
 1090,Marek,Šefčík,Marek Šefčík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1090&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5903,6127,True,96
 1089,Radovan,Marcinčin,Radovan Marcinčin,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1089&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5677,6126,True,93
 1088,Peter,Pollák,Peter Pollák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1088&ImageWidth=140,"OĽANO, NOVA, KÚ, ZMENA ZDOLA",5660,6138,True,92
@@ -82,13 +92,20 @@ mp_id,given_name,family_name,name,photo_url,list,attendance,possible,in_parliame
 1050,Monika,Péter,Monika Péter,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1050&ImageWidth=140,SME RODINA,5781,6153,True,94
 924,Zuzana,Šebová,Zuzana Šebová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=924&ImageWidth=140,SME RODINA,5488,6153,True,89
 998,Martin,Borguľa,Martin Borguľa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=998&ImageWidth=140,SME RODINA,5138,6153,True,84
+1097,Eva,Hudecová,Eva Hudecová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1097&ImageWidth=140,SME RODINA,4936,5570,False,89
+1096,Jozef,Hlinka,Jozef Hlinka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1096&ImageWidth=140,SME RODINA,4917,5380,False,91
 928,Adriana,Pčolinská,Adriana Pčolinská,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=928&ImageWidth=140,SME RODINA,5255,6153,True,85
 1018,Igor,Kašper,Igor Kašper,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1018&ImageWidth=140,SME RODINA,5486,6153,True,89
 1010,Petra,Hajšelová,Petra Hajšelová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1010&ImageWidth=140,SME RODINA,5669,6153,True,92
 927,Ľudovít,Goga,Ľudovít Goga,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=927&ImageWidth=140,SME RODINA,5426,6153,True,88
+738,Pavol,Goga,Pavol Goga,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140,SMER – sociálna demokracia,14,19,False,74
+683,Ľubomír,Petrák,Ľubomír Petrák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=683&ImageWidth=140,SMER – sociálna demokracia,817,1360,False,60
 322,Dušan,Muňko,Dušan Muňko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=322&ImageWidth=140,SMER – sociálna demokracia,4857,6131,True,79
+818,Mária,Janíková,Mária Janíková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=818&ImageWidth=140,SMER – sociálna demokracia,12,19,False,63
 668,Stanislav,Kubánek,Stanislav Kubánek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140,SMER – sociálna demokracia,4786,6139,True,78
+1087,Zdenko,Svoboda,Zdenko Svoboda,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140,SMER – sociálna demokracia,19,19,False,100
 974,Martin,Nemky,Martin Nemky,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=974&ImageWidth=140,SMER – sociálna demokracia,4007,6132,True,65
+814,Branislav,Ondruš,Branislav Ondruš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=814&ImageWidth=140,SMER – sociálna demokracia,19,19,False,100
 685,Ján,Podmanický,Ján Podmanický,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=685&ImageWidth=140,SMER – sociálna demokracia,4381,6147,True,71
 689,Ján,Richter,Ján Richter,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=689&ImageWidth=140,SMER – sociálna demokracia,5572,6132,True,91
 1058,Anton,Stredák,Anton Stredák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1058&ImageWidth=140,SMER – sociálna demokracia,5546,6151,True,90
@@ -101,6 +118,7 @@ mp_id,given_name,family_name,name,photo_url,list,attendance,possible,in_parliame
 705,Jozef,Valocký,Jozef Valocký,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=705&ImageWidth=140,SMER – sociálna demokracia,5046,6143,True,82
 656,Dušan,Galis,Dušan Galis,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=656&ImageWidth=140,SMER – sociálna demokracia,5000,6112,True,82
 732,Jana,Vaľová,Jana Vaľová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=732&ImageWidth=140,SMER – sociálna demokracia,4342,6151,True,71
+1086,Vladimír,Jánošík,Vladimír Jánošík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1086&ImageWidth=140,SMER – sociálna demokracia,19,19,False,100
 1071,Richard,Takáč,Richard Takáč,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1071&ImageWidth=140,SMER – sociálna demokracia,5423,6151,True,88
 879,Róbert,Puci,Róbert Puci,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140,SMER – sociálna demokracia,4524,6153,True,74
 871,Vladimír,Baláž,Vladimír Baláž,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=871&ImageWidth=140,SMER – sociálna demokracia,2345,6136,True,38
@@ -124,7 +142,12 @@ mp_id,given_name,family_name,name,photo_url,list,attendance,possible,in_parliame
 238,Juraj,Blanár,Juraj Blanár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=238&ImageWidth=140,SMER – sociálna demokracia,5314,6153,True,86
 873,Marián,Kéry,Marián Kéry,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140,SMER – sociálna demokracia,5480,6136,True,89
 275,Maroš,Kondrót,Maroš Kondrót,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=275&ImageWidth=140,SMER – sociálna demokracia,5328,6153,True,87
+671,Ján,Kvorka,Ján Kvorka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=671&ImageWidth=140,SMER – sociálna demokracia,18,19,False,95
 1084,Jarmila,Halgašová,Jarmila Halgašová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1084&ImageWidth=140,Sloboda a Solidarita,5518,6140,True,90
+1098,Miroslav,Žiak,Miroslav Žiak,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1098&ImageWidth=140,Sloboda a Solidarita,3363,3721,False,90
+1102,Roman,Foltin,Roman Foltin,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1102&ImageWidth=140,Sloboda a Solidarita,3163,4015,False,79
+1103,Radovan,Sloboda,Radovan Sloboda,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1103&ImageWidth=140,Sloboda a Solidarita,3387,4013,False,84
+1104,Radovan,Kazda,Radovan Kazda,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1104&ImageWidth=140,Sloboda a Solidarita,3687,4011,False,92
 100,Peter,Osuský,Peter Osuský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=100&ImageWidth=140,Sloboda a Solidarita,5318,6149,True,86
 976,Jana,Bittó Cigániková,Jana Bittó Cigániková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=976&ImageWidth=140,Sloboda a Solidarita,4727,6153,True,77
 963,Martin,Klus,Martin Klus,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=963&ImageWidth=140,Sloboda a Solidarita,1358,2132,True,64
@@ -134,12 +157,19 @@ mp_id,given_name,family_name,name,photo_url,list,attendance,possible,in_parliame
 967,Alojz,Baránik,Alojz Baránik,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=967&ImageWidth=140,Sloboda a Solidarita,5286,6151,True,86
 1001,Peter,Cmorej,Peter Cmorej,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1001&ImageWidth=140,Sloboda a Solidarita,5308,6146,True,86
 966,Karol,Galek,Karol Galek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140,Sloboda a Solidarita,1990,2132,True,93
+1113,Jozef,Kanuščák,Jozef Kanuščák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1113&ImageWidth=140,Sloboda a Solidarita,546,560,False,98
 767,Richard,Sulík,Richard Sulík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=767&ImageWidth=140,Sloboda a Solidarita,2049,2392,True,86
+847,Milan,Laurenčík,Milan Laurenčík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=847&ImageWidth=140,Sloboda a Solidarita,3564,3717,False,96
 1049,Ján,Oravec,Ján Oravec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1049&ImageWidth=140,Sloboda a Solidarita,1984,2132,True,93
 779,Ondrej,Dostál,Ondrej Dostál,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=779&ImageWidth=140,Sloboda a Solidarita,5160,5587,True,92
+1040,Michal,Luciak,Michal Luciak,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1040&ImageWidth=140,ZA ĽUDÍ,3342,3760,False,89
+1108,Andrea,Letanovská,Andrea Letanovská,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1108&ImageWidth=140,ZA ĽUDÍ,847,1260,False,67
+1107,Miriam,Šuteková,Miriam Šuteková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1107&ImageWidth=140,ZA ĽUDÍ,3922,5274,False,74
+1105,Viera,Leščáková,Viera Leščáková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1105&ImageWidth=140,ZA ĽUDÍ,1782,2028,False,88
 776,Jana,Žitňanská,Jana Žitňanská,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=776&ImageWidth=140,ZA ĽUDÍ,5122,6153,True,83
 996,Ján,Benčík,Ján Benčík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=996&ImageWidth=140,ZA ĽUDÍ,5835,6149,True,95
 1085,Tomáš,Lehotský,Tomáš Lehotský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1085&ImageWidth=140,ZA ĽUDÍ,5591,6149,True,91
+1100,Alexandra,Pivková,Alexandra Pivková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1100&ImageWidth=140,ZA ĽUDÍ,3139,3721,False,84
 1099,Marek,Antal,Marek Antal,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1099&ImageWidth=140,ZA ĽUDÍ,392,628,True,62
 1075,Tomáš,Valášek,Tomáš Valášek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1075&ImageWidth=140,ZA ĽUDÍ,5080,6149,True,83
 1013,Marek,Hattas,Marek Hattas,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1013&ImageWidth=140,ZA ĽUDÍ,3533,6141,True,58
