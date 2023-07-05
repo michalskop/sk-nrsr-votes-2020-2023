@@ -30,6 +30,7 @@ mp_id = 997 # Blcháč
 mp_id = 1003 # Čepček
 mp_id = 1078 # Kuriak
 mp_id = 779 # Dostál
+mp_id = 1060 # 
 
 # statistics
 statistics = {
@@ -87,6 +88,8 @@ for stat in statistics:
       hoz += len(r.html.find(".tab_zoznam", first=True).find(".tab_zoznam_nonalt"))
       hoz += len(r.html.find(".tab_zoznam", first=True).find(".tab_zoznam_alt"))
       hoz += len(r.html.find(".tab_zoznam", first=True).find(".tab_zoznam_nalt"))
+      if hoz == 0: # návrhy zákonov
+        hoz += int(len(r.html.find(".tab_zoznam", first=True).find("[target='_self']")) / 2)
       try:
         lpl = r.html.find(".pager", first=True).find("tr", first=True).text.split("\n")
         last_sign = lpl[len(lpl) - 1]
