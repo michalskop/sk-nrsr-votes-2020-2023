@@ -2,7 +2,9 @@
 
 import pandas as pd
 
-data_path = "data/"
+path = "/home/michal/dev/sk-nrsr-votes-2023-202x/"
+
+data_path = path + "data/"
 
 # attendance
 votes = pd.read_csv(data_path + "votes.csv")

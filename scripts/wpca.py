@@ -20,7 +20,7 @@ rotate = {
 }
 
 # quick settings for correct dates in charts
-first_half_year = {"half": 1, "year": 2020}
+first_half_year = {"half": 2, "year": 2023}
 
 Xsource = pd.read_csv(localpath + "data/votes.csv")
 

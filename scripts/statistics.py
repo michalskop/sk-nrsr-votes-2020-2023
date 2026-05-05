@@ -7,9 +7,11 @@ import pandas as pd
 import requests_html
 
 # term
-term = 8
+term = 9
 
-data_path = "data/"
+path = "/home/michal/dev/sk-nrsr-votes-2023-202x/"  
+
+data_path = path + "data/"
 
 # get the list of MPs
 mps = pd.read_csv(data_path + "mps.csv")

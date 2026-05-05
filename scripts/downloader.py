@@ -10,7 +10,7 @@ import requests_html
 session = requests_html.HTMLSession()
 
 # vote_events_minmax = [43678, 50570] # original
-vote_events_minmax = [50571, 50825]
+vote_events_minmax = [57276, 57432]
 nrsr_org_id = 13
 
 url = "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasklub&ID={}"
